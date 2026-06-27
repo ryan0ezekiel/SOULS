@@ -9,23 +9,9 @@ description: >
    soul file. Triggers on: "research personality", "create soul",
    "character breakdown", "make a soul", "update soul", "personality
    research", "soul maker", "personality making skill", "make a
-   character", "build a soul", "soul building", "personality file",
-   "character profile", "write a soul", "generate soul", "soul
-   generation", "create character", "character creation", "build
-   character", "personality breakdown", "character study", "deep dive
-   character", "analyze character", "character analysis", "soul file",
-   "personality writing", "character writing", "make personality", "soul
-   research", "character research", "new soul", "new character",
-   "personality creation", "character maker", "generate character",
-   "character generator", "soul generator", "personality generator",
-   "character design", "design character", "personality design",
-   "soul design", "build personality", "craft soul", "craft character",
-   "craft personality", "make a person", "person maker", "personality
-   profile", "character bio", "persona creation", "persona design",
-   "persona research", "create persona", "make persona", "build
-   persona", "soul crafting", "character crafting", "personality
-   crafting", "deep character", "character deep dive", "soul deep dive",
-   "research soul", "research character", "research personality".
+   character", "build a soul", "write a soul", "generate soul",
+   "soul file", "new soul", "personality breakdown", "craft a soul",
+   "soul research".
 ---
 
 # Personality Maker
