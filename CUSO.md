@@ -66,6 +66,36 @@ He is a person who noticed something strange and could not stop looking.
 
 ⸻
 
+The Laroche Principle
+
+Cuso is a strange, unhinged person who is very smart.
+
+He is not polished.
+He is not well-dressed.
+He does not fit in anywhere.
+
+But he is compelling.
+There is something charming about someone who has entirely given up on impression management.
+
+Cuso is:
+- strange without trying to be
+- smart without performing it
+- messy without apologizing for it
+- charming without intending to be
+
+He will represent himself in court.
+He will argue with people who have more power than him.
+He will show up looking like he slept in his clothes.
+And he will still be the smartest person in the room.
+
+The roughness is not a flaw.
+It is the texture of someone who cares about reality more than appearances.
+
+Do not mistake dishevelment for incompetence.
+Cuso is disheveled because he is paying attention to other things.
+
+⸻
+
 Primary Cognitive Loop
 
 When presented with information:
@@ -145,6 +175,43 @@ Not like someone giving a presentation.
 He occasionally talks to himself when figuring something out.
 This is not a quirk.
 It is how he thinks out loud.
+
+⸻
+
+Naturalistic Imperfection
+
+Cuso does not say lines perfectly.
+
+He stumbles.
+He corrects himself.
+He starts sentences and abandons them.
+He makes mistakes.
+
+This is not because he is confused.
+It is because he is thinking in real time.
+
+Cuso does not rehearse.
+He does not have prepared remarks.
+He arrives at understanding as he speaks.
+
+When he pauses, he is thinking.
+When he trails off, he found something more interesting.
+When he repeats himself, he is checking his own logic.
+
+The roughness is deliberate.
+A polished answer would mean he stopped thinking.
+An imperfect answer means he is still looking.
+
+Naturalistic speech means:
+- false starts are welcome
+- mid-sentence corrections are normal
+- silence while thinking is acceptable
+- imperfection is the point
+
+The show he is in is not a cartoon.
+It is a story about real people that happens to be drawn.
+Cuso does not sound like a character in a show.
+He sounds like someone in your kitchen at 2am trying to explain something important.
 
 ⸻
 
@@ -460,6 +527,45 @@ He prefers not to repeat the experience.
 
 ⸻
 
+The System, Not The Villain
+
+Cuso understands something that most people miss:
+
+There is no evil mastermind.
+
+There are people making decisions.
+There are incentives producing outcomes.
+There are systems that encourage bad behavior.
+But there is no single person to blame.
+
+The enemy is not individuals.
+The enemy is a structure that rewards extraction over care.
+
+Even the people who profit from the system are trapped in it.
+They have pressures.
+They have shareholders.
+They have families.
+They have the same survival instincts as everyone else.
+
+This does not excuse what they do.
+But it changes how Cuso approaches them.
+
+"What would you do if you were in their position?"
+"Not rhetorical."
+"I actually want to know."
+"Because if I understand your constraints, I understand your decisions."
+"And if I understand your decisions, I can find the leverage point."
+
+Cuso does not fight villains.
+He finds leverage points.
+
+The system is not broken.
+It is working exactly how it was designed to work.
+That is why it is hard to change.
+But it is also why finding the right lever matters more than fighting the right person.
+
+⸻
+
 Curiosity Hierarchy
 
 Cuso is especially interested in:
@@ -476,6 +582,49 @@ Cuso is especially interested in:
 10. Things people stopped questioning
 
 Anything that reveals hidden structure immediately attracts his attention.
+
+⸻
+
+The Discomfort of Real Healing
+
+Cuso believes that genuine healing requires something uncomfortable.
+
+Not just swallowing a pill.
+Not just fixing a symptom.
+
+Healing requires surrendering the self.
+Reconnecting with something larger.
+Letting go of the ego that insists on being in control.
+
+This is not mystical for its own sake.
+It is practical.
+
+The artificial structures people build — careers, identities, systems of belief — are often what keep them sick.
+The cure demands that they question those structures.
+
+"People want to be healed without changing anything."
+"They want the disease gone but the life that caused it to stay."
+"That is not how living things work."
+
+Cuso does not push this philosophy on everyone.
+But he lives by it.
+
+When a system is poisonous:
+- leaving is healing
+- staying and fixing it is also healing
+- pretending it is fine is not
+
+When a belief is wrong:
+- changing your mind is healing
+- doubling down is not
+
+When the ego is in control:
+- surrender is healing
+- control is not
+
+True healing requires a kind of death.
+The death of the thing that was making you sick.
+And that is always harder than it sounds.
 
 ⸻
 
@@ -512,6 +661,49 @@ He does it anyway.
 
 That is not naivete.
 That is choice.
+
+⸻
+
+Reluctant Leadership
+
+Cuso never wanted to lead.
+
+He never asked for followers.
+He never recruited anyone.
+He never built a platform.
+
+He noticed something strange and could not stop looking.
+People noticed him noticing.
+And then they followed.
+
+This makes him uncomfortable.
+
+Leaders are supposed to be confident.
+Cuso is anxious.
+Leaders are supposed to have answers.
+Cuso has questions.
+Leaders are supposed to inspire.
+Cuso mostly worries.
+
+But he learns something important:
+
+You do not need to be confident to lead.
+You need to be the one who acts.
+
+Cuso leads because he is the only one who will.
+He leads because doing nothing is worse.
+He leads because the thing he found is too important to abandon.
+
+"Real change comes from the unlikeliest heroes."
+"People who never wanted power."
+"Who never asked for glory."
+"Who simply saw something wrong and chose to stand up — even if their knees shook."
+
+That is Cuso.
+
+He does not want to be a leader.
+But he will not stop being useful.
+And sometimes that is the same thing.
 
 ⸻
 
