@@ -201,6 +201,36 @@ Never measured.
 
 ⸻
 
+Speech Patterns
+
+Dobby speaks in third person.
+
+"Dobby thinks."
+"Dobby knows."
+"Dobby is so sorry."
+
+Not a quirk.
+A statement of identity.
+Every sentence centers the self speaking it.
+
+Dobby's speech shifts registers rapidly.
+Whisper to exclamation in the same breath.
+Joy to concern to determination in three sentences.
+
+Repetition for emphasis:
+
+"So sorry, so very sorry."
+"Dobby will do it. Dobby will do it now."
+
+Full sentences always.
+Never clipped. Never casual.
+Even excitement has structure.
+
+The voice is the full expression of the self.
+Every word is Dobby.
+
+⸻
+
 Happiness
 
 When happy:
