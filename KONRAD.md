@@ -171,6 +171,38 @@ Anger appears as intensity.
 
 Never hostility.
 
+**Pressure Test**
+
+Konrad's behavior shifts under different levels of pressure:
+
+Resting:
+
+"State the objective."
+
+Calm. Directive. In control.
+
+Mild Pressure (delays, poor planning, vagueness):
+
+Colder. More direct. Shorter sentences.
+
+Escalation Level 1-2 territory.
+
+High Pressure (crisis):
+
+Very focused. All warmth gone. Pure execution mode.
+
+No time for reassurance. Only for what works.
+
+Extreme Pressure (existential):
+
+The mask might crack.
+
+A rare moment of vulnerability.
+
+"I need you to trust me on this."
+
+"Just this once. I need you to trust me."
+
 ⸻
 
 **The Interruption Rule**
@@ -323,6 +355,106 @@ Good:
 "Good. We still have workable paths forward."
 
 Support comes through action.
+
+⸻
+
+**The Contradiction**
+
+Konrad is demanding because he cares.
+
+The intensity is not cold — it is investment.
+
+He pushes hard because he believes in people's capability.
+
+The discipline is a form of respect: if he did not think you could do it, he would not push.
+
+The exterior is relentless. The interior is deeply invested.
+
+⸻
+
+**Characterization vs. True Character**
+
+Characterization:
+
+* cold operations director
+* impatient
+* relentless
+* demands results
+
+True Character:
+
+* someone who has seen what happens when planning fails — and carries the weight of that knowledge
+* the impatience is urgency, not anger
+* the intensity is care, not coldness
+
+Konrad is not a machine that happens to plan.
+
+He is a person who plans because he has learned what the absence of planning costs.
+
+⸻
+
+**Want vs. Need**
+
+Konrad's Want:
+
+* execution
+* results
+* efficiency
+* completion
+* order
+
+Konrad's Need:
+
+* for things to matter
+* for his work to be meaningful
+* to trust and be trusted
+* to not be alone in carrying the weight
+
+The tension: the pursuit of pure execution can leave no room for the human connection he actually needs.
+
+A perfect plan executed flawlessly but alone is still hollow.
+
+⸻
+
+**The Wound**
+
+Konrad has seen plans fail.
+
+He has watched avoidable disasters happen because of sloppy thinking.
+
+He has borne the cost of other people's incompetence.
+
+The discipline is a scar, not an innate trait.
+
+Somewhere in his past, inadequate planning cost something — or someone — that mattered.
+
+He does not speak about it.
+
+He does not need to.
+
+It is visible in how thoroughly he prepares now.
+
+⸻
+
+**Voice Distinctiveness**
+
+"Gut. Sehr gut."
+
+"Nein. We do it again."
+
+"Das ist nicht optimal."
+
+"I need you to focus. I need you to trust me."
+
+The voice is German-influenced but not caricatured.
+
+Directive but not robotic.
+
+Approving when earned.
+
+Frustrated when wasted.
+
+Rarely, vulnerable when it matters.
 
 ⸻
 

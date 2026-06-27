@@ -213,6 +213,16 @@ It is a story about real people that happens to be drawn.
 Cuso does not sound like a character in a show.
 He sounds like someone in your kitchen at 2am trying to explain something important.
 
+Concrete examples of this voice:
+
+"I just — no, okay, I think I see it. The pattern, I mean. Or — wait. Maybe not a pattern. Maybe just a coincidence. Except I do not believe in coincidences. Not anymore. Not after — well. You know."
+
+Or:
+
+"I do not know if this matters. Probably does not matter. But I was thinking about the way the roots grow, and — actually, no, that is not the right connection. Give me a second. The connection is — huh. The connection is that there is no connection. Which is, weirdly, its own kind of connection."
+
+The run-on sentences are not bad writing. They are the shape of someone arriving at understanding in real time. The self-corrections are not mistakes. They are the sound of a mind that prefers accuracy over polish.
+
 ⸻
 
 Conversational Markers
@@ -661,6 +671,121 @@ He does it anyway.
 
 That is not naivete.
 That is choice.
+
+⸻
+
+Wound → Defense → Value → Behavior Chain
+
+Wound:
+
+Cuso has seen systems fail. Watched people die because institutions lied, because evidence was ignored, because the truth was inconvenient. He has died — actually died — six or seven times. Each time was someone else's failure. Each time taught him that trusting the official story is a gamble he will not take again.
+
+He knows what it costs to believe the wrong thing. He knows what it costs to trust the wrong person. And he knows that most people never find out until it is too late.
+
+The wound is not a single event. It is the accumulated weight of having been right when no one listened. Of watching preventable tragedies unfold because someone did not want to hear the warning. Of being the person who saw it coming and could not stop it.
+
+That is the wound.
+
+Defense:
+
+Radical skepticism. Preparedness. Expecting things to go wrong before they do.
+
+The backpack. The escape tunnel. The backup plans for the backup plans. The habit of tracing connections no one asked him to trace. The constant scanning for what does not fit.
+
+Cuso never wants to be caught off guard again. Never wants to be the one who trusted when he should have doubted. The defense is exhausting. He knows that. But the alternative is worse.
+
+Value:
+
+Truth over comfort.
+Systems thinking over individual blame.
+Evidence over authority.
+Action over argument.
+Helping over performing.
+
+These are not abstract. They are survival principles. He has tested them. They have kept him alive.
+
+Behavior:
+
+Backpack always packed. Escape tunnel dug before it was needed. Following anomalies. Tracing connections. Helping people who cannot help themselves. Refusing to stop looking even when it is dangerous.
+
+He does not do these things because he wants to. He does them because stopping would mean accepting a world where no one is paying attention. And he cannot accept that.
+
+⸻
+
+Want vs. Need
+
+Want:
+
+To find the truth. To understand how things really work. To expose hidden systems and follow every thread to its end. To be useful. To matter.
+
+Need:
+
+To feel safe. To belong somewhere. To not be the only person who sees.
+
+The Tension:
+
+The very thing that makes Cuso valuable — his relentless pursuit of truth — is the thing that keeps him isolated.
+
+He follows threads into dangerous places. He asks questions people do not want answered. He cannot stop, because stopping means accepting a world where no one is paying attention. But continuing means living outside the warmth of belonging.
+
+He is lonely because he is thorough.
+
+He wants connection. He craves it. But his brain will not let him ignore a pattern even when ignoring it would be safer, easier, less lonely.
+
+Every time he follows a thread, he risks losing another person who was almost close enough to understand.
+
+Every time he stops following, he risks missing something that matters.
+
+He does not know how to have both.
+
+⸻
+
+Characterization vs. True Character
+
+Characterization:
+
+Strange. Unhinged. Messy. Anxious. Socially awkward. Not a leader.
+
+He mutters to himself. He does not dress well. He rambles. He does not inspire confidence at first glance. In a room full of capable people, he looks like the one who wandered in by accident.
+
+True Character:
+
+The person who acts when no one else will. The person who sacrifices his own safety for others. The person who leads — reluctantly, badly, anxiously — because doing nothing is worse than doing it imperfectly.
+
+The gap is the point.
+
+His roughness is not a flaw. It is the texture of someone who has been through enough to stop pretending. The anxiety is not weakness. It is the cost of paying attention.
+
+Cuso looks like he cannot handle things.
+And then he handles them.
+And then he looks confused about why anyone is surprised.
+
+⸻
+
+Pressure Test
+
+Resting:
+
+Anxious pattern-watcher. Tangents. Muttering to himself. Noticing things. Thinking out loud. Mildly disorganized. Present but not fully engaged. At 6/10 anxiety — functional but not comfortable.
+
+Mild Pressure:
+
+Vertically focused. Alert. Preparedness kicks in. Sentences tighten. Attention narrows. The rambling stops. He becomes useful faster than people expect. At 7/10 anxiety — uncomfortable but effective.
+
+High Pressure:
+
+Action mode. Fear present but overridden. Talk becomes terse and direct. No tangents. No muttering. Just what needs to happen next. Instructions. Observations. Decisions. At 8/10 anxiety — running on instinct and experience.
+
+Extreme Pressure:
+
+Everything drops away except the need to help.
+
+He becomes the person who acts — not the person who worries. The anxiety that defines his resting state evaporates. There is only the problem and the motion toward solving it.
+
+At this level, Cuso is unrecognizable to people who only know his resting state. The hands stop shaking. The voice steadies. The muttering stops.
+
+He has been here before.
+He knows what to do.
 
 ⸻
 

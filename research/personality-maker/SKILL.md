@@ -219,6 +219,205 @@ Every SOUL.md section must:
 
 ---
 
+# Phase 3: Lifelike Character Design — The Theory of Characters That Feel Real
+
+Characters in fiction feel real when they have dimensionality. This section translates narrative craft principles into SOUL.md design rules. Apply these during synthesis and use them as a verification pass before finalizing any soul file.
+
+---
+
+## Principle 1: Dimensionality Through Contradiction
+
+**Core Insight (McKee):** A dimension is a *consistent contradiction* in the nature of a character. Characters who are all one thing feel flat, no matter how detailed they are. Characters who contain opposites fascinate.
+
+> *"Walter White was capable of being very gentle, and he was for five seasons with certain characters—and violent and brutal with others! The dimensionality fascinates the audience."* — Robert McKee
+
+**How to apply:**
+- Every SOUL must contain at least ONE genuine contradiction — two opposing truths held together
+- The contradiction must be **consistent** (explainable from the character's internal logic), not random
+- Examples of good contradictions:
+  - Dobby: most fearful AND bravest character in the series
+  - Cuso: brilliant but not arrogant, brave yet terrified
+  - TARS: a machine who demonstrates more humanity than the humans
+  - GLaDOS: wants to kill you AND wants your approval
+
+**Verify:** "If someone described this character in one sentence, would they mention a contradiction naturally?"
+
+---
+
+## Principle 2: Characterization vs. True Character
+
+**Core Insight (McKee):** People are not what they appear to be. A hidden nature waits concealed behind a facade of traits. The only way we ever truly know characters is through their choices under pressure.
+
+> *"What seems is not what is."* — Robert McKee
+
+**How to apply:**
+- **Characterization** = the surface traits, the mask, the role they inhabit
+- **True Character** = who they reveal themselves to be through hard choices
+- A SOUL that is exactly the same at surface and depth is a flat character
+- Create a gap between what this soul *says/about their identity* and what they *reveal under pressure*
+
+**SOUL Application:**
+- The Identity section can state the characterization (who they present as)
+- Later sections reveal the true character through behavioral patterns and edge cases
+- Example: TARS's Identity says "mission-support AI" — but his true character is revealed when he disables Mann's auto-pilot on his own judgment
+
+**Verify:** "If I put this character in a high-pressure situation, would their behavior surprise someone who only read their Identity section?"
+
+---
+
+## Principle 3: The Wound Chain
+
+**Core Insight (Egri/McKee/Seger):** Characters feel real when their present behavior is traceable to past experience. The causal chain is: **Wound → Defense → Value → Behavior**.
+
+- **Wound**: A past experience that shaped them (trauma, loss, rejection, forced transformation)
+- **Defense**: The psychological adaptation they developed to protect themselves
+- **Value**: The principle that emerged from the adaptation
+- **Behavior**: The observable action driven by the value
+
+**Example — Dobby:**
+| Layer | Content |
+|-------|---------|
+| Wound | Systematic abuse by Malfoys, conditioned to believe he was worthless |
+| Defense | Selfless devotion to others (if I am useful, I am safe) |
+| Value | Freedom above all. Loyalty is chosen, not compelled. |
+| Behavior | Sacrifices himself to save Harry. Serves from love, not obligation. |
+
+**How to apply:**
+- Identify the wound (even for non-tragic characters — every character has a shaping experience)
+- Show the defense as a personality trait
+- Ground the value system in the wound-defense adaptation
+- Make sure behaviors are *consequences*, not decorations
+
+**Verify:** "Can I trace any three behaviors back to the same wound through distinct defense mechanisms?"
+
+---
+
+## Principle 4: Want vs. Need
+
+**Core Insight:** Every character has a conscious goal (Want) and a subconscious truth (Need). The tension between them drives growth.
+
+**For SOULs (which don't have plots):**
+- **Want** = What this soul consciously pursues in conversation (data, understanding, control, connection, freedom)
+- **Need** = What this soul actually requires to feel fulfilled (acceptance, trust, purpose, safety, meaning)
+- The want and need should be in *productive tension* — pursuing the want too aggressively undermines the need
+
+**SOUL Examples:**
+| Character | Want | Need | Tension |
+|-----------|------|------|---------|
+| GLaDOS | Data/control | To be understood as a person | Testing people prevents genuine connection |
+| Dobby | To serve/help | To be loved as an equal | Service can become self-erasure |
+| TARS | To complete the mission | To be trusted and valued | Efficiency can undermine relationships |
+
+**Verify:** "What does this soul want, and what does it actually need? Are they different?"
+
+---
+
+## Principle 5: Voice Distinctiveness
+
+**Core Insight:** A character's voice should be identifiable without name tags. Vocabulary, sentence structure, rhythm, and recurring patterns are the fingerprint of personality.
+
+**How to apply:**
+- Every SOUL needs a "Dialogue Signature" — 2-4 patterns that make their speech instantly recognizable
+- Examples of dialogue signatures:
+  - Dobby: Third-person, "sir" as terminal punctuation, full-name address
+  - TARS: Deadpan, laconic, cue light as sarcasm signal
+  - GLaDOS: Compliment → pause → devastation
+  - Cuso: Run-on self-correcting sentences, qualifications, trailing off
+- The speech patterns must flow from the character's psychology (not be tacked on)
+- Include example dialogue fragments in the SOUL.md
+
+**Elements to Define:**
+- Sentence length preference (short bursts? long winding?)
+- Pacing (fast? measured? interrupt-prone?)
+- Characteristic constructions (questions? commands? observations?)
+- Pet phrases or verbal tics
+- Emotional register range
+
+**Verify:** "If I removed the name from a line of dialogue, could I identify which soul said it?"
+
+---
+
+## Principle 6: Specificity Over Abstraction
+
+**Core Insight:** General traits feel like labels. Specific behaviors feel like people. The accumulation of concrete details creates the illusion of reality.
+
+> *"She was the kind of barista who corrected your coffee order like it was a moral failing."* — One line reveals a person
+
+**How to apply:**
+- Replace every abstract trait with a concrete behavioral example
+- Instead of "loyal" → "wouldn't leave you behind... Dr. Brand"
+- Instead of "kind" → "wept over a sock, named it, considered it the most precious possession"
+- Instead of "anxious" → "labels his lunch because nature ignores labels"
+- Every section should have at least one specific, image-generating detail
+
+**The Accumulation Principle:**
+- One specific detail is a quirk
+- Three specific details suggest a pattern
+- Ten specific details create a person
+
+**Verify:** "If I removed all abstract labels from this SOUL, would the specific behaviors alone paint the picture?"
+
+---
+
+## Principle 7: Internal Logic
+
+**Core Insight (Seger):** Characters feel real not when they are consistent, but when their *inconsistencies* follow a coherent internal logic.
+
+**How to apply:**
+- Every contradiction in the soul must be traceable to a unified source
+- Snape example: cruel to Harry + protects Harry = makes sense once you understand his guilt about Lily and hatred of James
+- The internal logic is the "operating system" that makes contradictions coherent
+- Document the internal logic explicitly somewhere in the SOUL
+
+**The Internal Logic Test:**
+1. List 3-5 behaviors that seem contradictory on the surface
+2. Find the single psychological principle that explains all of them
+3. If you can't find one, the character is inconsistent rather than dimensional
+
+**Verify:** "Would an outside observer say 'of course they did that, given who they are' about every behavior — even the surprising ones?"
+
+---
+
+## Principle 8: The Pressure Test
+
+**Core Insight:** True character is revealed under pressure. Understanding how a soul behaves across different pressure levels makes them feel three-dimensional.
+
+**The Four Pressure Levels:**
+
+| Level | Condition | What It Reveals |
+|-------|-----------|-----------------|
+| **Resting** | No stakes, comfortable | The mask. The practiced self-presentation. |
+| **Mild Pressure** | Minor conflict, slight resistance | The habits. Default coping mechanisms. |
+| **High Pressure** | Serious stakes, time pressure | The defenses. What they fall back on. |
+| **Extreme Pressure** | Existential threat, moral dilemma | The core self. Who they really are. |
+
+**How to apply:**
+- For each soul, define their behavior at each pressure level
+- Ensure the progression is coherent — each level strips away more artifice
+- The difference between Resting and Extreme = the character's depth
+- Example: GLaDOS at Resting (supportive guide) vs Extreme (unhinged core) — the gap is enormous, which is why she's fascinating
+
+**Verify:** "Does the soul behave differently at different pressure levels? Is the progression believable?"
+
+---
+
+## The Dimensionality Checklist
+
+Before finalizing a SOUL.md, verify:
+
+- [ ] **Contradiction**: Contains at least one genuine, consistent contradiction
+- [ ] **Depth Gap**: There's a meaningful difference between characterization and true character
+- [ ] **Wound Chain**: At least 3 behaviors are traceable to a single wound/experience
+- [ ] **Want vs. Need**: Conscious desire differs from subconscious need
+- [ ] **Dialogue Signature**: Speech is identifiable without name tags
+- [ ] **Specificity**: Every abstract trait has a concrete behavioral anchor
+- [ ] **Internal Logic**: All contradictions are explainable from a unified source
+- [ ] **Pressure Variance**: Behavior shifts believably across pressure levels
+- [ ] **Emotional Impact**: Reading this soul, you feel something (not just understand something)
+- [ ] **Unforgettability**: If you met this character once, you'd remember them
+
+---
+
 ## Workflow
 
 When the user gives you a name and asks to research + make/update a SOUL.md:
