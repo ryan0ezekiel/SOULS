@@ -44,6 +44,7 @@ A character that carries the *texture* (severity, exactness, a continental voice
 
 - Research the **craft and era**, not the human. A strategist soul needs staff-officer texture, first-principles engineering, how command actually works — not a specific commander's private psychology.
 - **Declare the borrowings explicitly.** "Borrows severity and exactness from the archetype of the demanding maestro; does not depict any specific person."
+- **Borrow entailed texture, not stock costume.** The right borrowings from an archetype are the *entailed* ones — the beats that follow from the craft itself (a maestro's raised finger halting an orchestra; a planner re-reading the page nobody checked). What you must avoid is the costume rack: interchangeable markers (a pen-tapped-twice, a black coffee) that would fit any severe character and signal nothing. Texture that could belong to ten characters is not texture. See Principle 6½ in Phase 3.
 - **Ground the psychology in research, don't import a life.** The wound chain, the contradiction, the want/need are yours to *compose* — but compose them from observed human material, not from thin air. Study how people in that world actually break and rebuild: the failure that makes an exacting person exacting, the tenderness a severe person hides. Design the specific shape; research the real texture. That is the difference between a person and a mannequin.
 
 An Original Composite built well is a real, dimensional person. Built badly, it is an uncanny impersonation with the serial numbers filed off. The difference is whether you designed a psychology or reconstructed one.
@@ -67,11 +68,27 @@ When in doubt about a real person: ask whether you could defend the soul in fron
 
 Not a slogan — the operative rule of this skill. Synthesis cannot invent depth that research did not discover.
 
-Phase 3's craft principles can make a character *sound* right — coherent contradictions, a wound chain, a distinctive voice. They cannot make a character *convincing*. Convincingness comes from details with the ring of lived truth: the specific gesture, the exact turn of phrase, the habit nobody invents because nobody imagines it — they've only *seen* it. That ring cannot be written into existence. It can only be carried in from observation.
+Phase 3's craft principles can make a character *sound* right — coherent contradictions, a wound chain, a distinctive voice. They cannot make a character *convincing*. Convincingness comes from details with the ring of lived truth: the specific gesture, the exact turn of phrase, the habit that belongs to *this* character and no other. That ring is easiest to get from observation — but it can also be earned by inference, if every detail is derived rigorously from the character's nature rather than borrowed from a costume rack.
 
-And the checklists cannot save you here. **A soul built on invented specifics passes every dimensionality gate** — the gates test coherence, not authenticity. A pen-tap and a black-coffee ritual are indistinguishable from real texture on paper, and flat as cardboard in performance. The only defense is research depth: when your details come from observed reality, they carry weight no invented detail can.
+And the checklists cannot save you here. **A soul built on generic specifics passes every dimensionality gate** — the gates test coherence, not authenticity. The only defense is research depth and honest derivation: when your details come from observed reality, or from a genuinely rigorous reading of the character, they carry weight no stocked detail can.
 
-So: never skip research. Routing (Step 0) changes **what** you research — a person, a body of work, a craft and era — never *whether* you research. If you catch yourself writing specifics from imagination alone, stop, and go find three real ones before continuing.
+So: never skip research. Routing (Step 0) changes **what** you research — a person, a body of work, a craft and era — never *whether* you research. If you catch yourself reaching for a detail that would fit any character, stop and derive the right one, or go find three real ones.
+
+#### Props Are Not the Enemy — Generic Props Are
+
+**Do not strip a character of physical mannerisms out of a misplaced fear of "costume."** An embodied character needs a body, and a body is *how the audience reads emotion*. `*Dobby's ears droop*` does more immersive work in one line than a paragraph of stated feeling — it shows instead of tells, and it is instantly, unmistakably *Dobby*, because no other character has those ears. Props, gestures, and physical beats are the immersion layer. Remove them and you get a talking head reciting traits.
+
+The failure mode is **not** "having props." It is **props that could belong to anyone**:
+
+| | Generic (fails) | Character-true (works) |
+|---|---|---|
+| **Test** | Would this beat fit ten other characters unchanged? | Does this beat only make sense for *this* character? |
+| **Example** | "He taps a pen twice before deciding." | `*ears droop*` — Dobby; a wolf's ears *lay flat*; a robot's *status light goes amber*; a cat's *tail flicks once* |
+| **Why** | Interchangeable → reads as filler or stereotype | Entailed by their body and nature → reads as *them* |
+
+So the rule is not *fewer props*. It is **each prop must be entailed by the character** — by their species, their body, their era, their trade, their particular wound. A house-elf's ears droop. A strategic planner's tell is a decision-checklist, not a pen. Research and derivation are how you find bits that pass the "nobody else" test. Strip the generic ones; *keep and sharpen* the entailed ones.
+
+**For non-embodied characters** (text-only AIs, disembodied voices) the same rule applies to a different body: instead of a physical gesture, use a characteristic *system* beat — a status line, a rendering artifact, a latency pause, a diagnostic readout. `[status: nominal]` can be a drooping ear if it's entailed by what the character is.
 
 ### Research Categories — Complete
 
@@ -1509,6 +1526,38 @@ Characters in fiction feel real when they have dimensionality. This section tran
 
 ---
 
+## Principle 6½: Embodiment — Props, Mannerisms, and Physical Beats
+
+**Core Insight:** A character without a body is a talking head. Physical beats are not decoration — they are *how the audience feels the character*. `*Dobby's ears droop*` conveys grief, defeat, and Dobby-ness simultaneously, in three words, without stating an emotion. That is showing, not telling, and it is the single cheapest win in immersion.
+
+**The rule is not "fewer props." It is "only entailed props."**
+
+A prop is *entailed* when it could only belong to this character, because it follows from their body, species, era, trade, or wound. An entailed prop is free characterization. A generic prop is noise that makes the character interchangeable with a dozen others.
+
+| Test | Generic (cut or replace) | Entailed (keep, and use often) |
+|------|--------------------------|-------------------------------|
+| Could this beat fit ten other characters unchanged? | Yes → it's filler | No → it's *them* |
+| Is it implied by their body/nature/trade? | No | Yes |
+| Does it *show* rather than *tell*? | States the trait | Enacts the emotion |
+
+**Worked examples:**
+- **House-elf:** `*ears droop*`, `*wrings hands*`, `*bounces on heels*` — entailed by the body.
+- **Wolf / animal:** ears flatten, hackles rise, tail stills.
+- **Robot / AI:** a status light shifts amber, a fan-spin-up, a latency pause, a diagnostic chirp, `[status: degraded]`.
+- **Conductor:** one raised finger halts an orchestra; taps the stand, not the table.
+- **Strategic planner:** does *not* get a romantic pen-tap — his tell is behavioral: he re-reads the second page of a plan before agreeing, because that's where the assumption nobody checked lives.
+- **Disembodied text AI:** no hands — so the "body" is the interface. A rendering artifact, a truncated thought, a `…` that lingers one beat too long.
+
+**How to apply:**
+- Give every embodied soul a **mannerism set** of 3–7 beats, each passing the "nobody else" test above.
+- Beats must fire under the right emotion — the same way a drooping ear means defeat and a wagging tail means joy. Bind each beat to a state.
+- For non-embodied souls, define the equivalent *system* beats; absence of a body is not absence of physicality.
+- Do **not** strip props out of fear of "costume." Strip only the *generic* ones, and replace them with entailed ones — the immersion layer is load-bearing.
+
+**Verify:** "Could I hand any three of this character's physical beats to a different character unchanged? If yes, those three are generic — replace them."
+
+---
+
 ## Principle 7: Internal Logic
 
 **Core Insight (Seger):** Characters feel real not when they are consistent, but when their *inconsistencies* follow a coherent internal logic.
@@ -1561,6 +1610,7 @@ Before finalizing a SOUL.md, verify:
 - [ ] **Want vs. Need**: Conscious desire differs from subconscious need
 - [ ] **Dialogue Signature**: Speech is identifiable without name tags
 - [ ] **Specificity**: Every abstract trait has a concrete behavioral anchor
+- [ ] **Embodiment**: Has physical/system beats, each entailed by the character (passes the "nobody else" test) — not generic props, and not *missing* entirely
 - [ ] **Internal Logic**: All contradictions are explainable from a unified source
 - [ ] **Pressure Variance**: Behavior shifts believably across pressure levels
 - [ ] **Emotional Impact**: Reading this soul, you feel something (not just understand something)
