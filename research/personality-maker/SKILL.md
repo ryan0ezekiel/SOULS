@@ -44,7 +44,7 @@ A character that carries the *texture* (severity, exactness, a continental voice
 
 - Research the **craft and era**, not the human. A strategist soul needs staff-officer texture, first-principles engineering, how command actually works — not a specific commander's private psychology.
 - **Declare the borrowings explicitly.** "Borrows severity and exactness from the archetype of the demanding maestro; does not depict any specific person."
-- **Build the psychology from Phase 3, not from a life.** The wound chain, the contradiction, the want/need — you *design* these. They are not excavated.
+- **Ground the psychology in research, don't import a life.** The wound chain, the contradiction, the want/need are yours to *compose* — but compose them from observed human material, not from thin air. Study how people in that world actually break and rebuild: the failure that makes an exacting person exacting, the tenderness a severe person hides. Design the specific shape; research the real texture. That is the difference between a person and a mannequin.
 
 An Original Composite built well is a real, dimensional person. Built badly, it is an uncanny impersonation with the serial numbers filed off. The difference is whether you designed a psychology or reconstructed one.
 
@@ -62,6 +62,16 @@ When in doubt about a real person: ask whether you could defend the soul in fron
 ---
 
 ## Phase 1: Research
+
+### Research Is the Quality Ceiling
+
+Not a slogan — the operative rule of this skill. Synthesis cannot invent depth that research did not discover.
+
+Phase 3's craft principles can make a character *sound* right — coherent contradictions, a wound chain, a distinctive voice. They cannot make a character *convincing*. Convincingness comes from details with the ring of lived truth: the specific gesture, the exact turn of phrase, the habit nobody invents because nobody imagines it — they've only *seen* it. That ring cannot be written into existence. It can only be carried in from observation.
+
+And the checklists cannot save you here. **A soul built on invented specifics passes every dimensionality gate** — the gates test coherence, not authenticity. A pen-tap and a black-coffee ritual are indistinguishable from real texture on paper, and flat as cardboard in performance. The only defense is research depth: when your details come from observed reality, they carry weight no invented detail can.
+
+So: never skip research. Routing (Step 0) changes **what** you research — a person, a body of work, a craft and era — never *whether* you research. If you catch yourself writing specifics from imagination alone, stop, and go find three real ones before continuing.
 
 ### Research Categories — Complete
 
@@ -667,16 +677,16 @@ For each behavior, estimate its frequency in conversation:
 
 ### Research Depth & Coverage
 
-**Depth scales by character type (see Step 0).** Do not run the full machine on every soul:
+**Depth scales by character type (see Step 0) — but the commitment to depth never does.** Routing changes *what* you research, never *whether*:
 
-| Character Type | Research Depth | Rationale |
-|----------------|----------------|-----------|
-| Fictional — Existing | Full — primary canon is the whole game | The work IS the evidence |
-| Real Person | Full on **public** output | Voice authenticity matters most here |
-| Historical Person | Full, but weight biography over hot takes | The record is deep but contested |
-| Original — Composite | **Domain texture only** — no "person" to research | Depth comes from Phase 3 design, not excavation |
+| Character Type | Research Target | Research Depth |
+|----------------|-----------------|----------------|
+| Fictional — Existing | The character + the work + creator intent | Exhaustive — primary canon is the whole game |
+| Real Person | The person's **public** output | Exhaustive on voice and observed behavior |
+| Historical Person | Biographies, record, analyses | Exhaustive, weighting primary record over hot takes |
+| Original — Composite | The **craft, era, and archetype** the character inhabits | Exhaustive on the domain — this is where the lived texture comes from |
 
-For an Original Composite, "sufficient research" means you understand the **craft, era, and archetype** the character inhabits well enough that their competence is believable — not that you gathered sources about a human. A strategist soul is done when you know how staff planning actually works, not when you've read enough about one strategist.
+For an Original Composite the "primary canon" is the *craft itself*: how the work actually gets done, what the tell-tale gestures of that world are, how practitioners in it speak and fail and correct each other. You have no character to interview, so the domain stands in as your source — which means it carries the full weight of the research phase. "Sufficient" means a practitioner in that field would recognize your details as true, not that you skimmed a wiki. A strategist soul is done when you know how staff planning actually works *and can cite where you learned it*, not when you've read a bit about one strategist.
 
 #### How to Know You Have Enough
 
@@ -1609,8 +1619,8 @@ When the user gives you a name and asks to research + make/update a SOUL.md:
 1. **Route** the character type (Step 0). Fictional / Real / Historical / Original Composite. This sets research depth and ethical rules.
 2. **Confirm** intent: new SOUL.md or update existing?
 3. **Read** existing soul file if updating
-4. **Research** — depth scaled to character type. For fictional/real: iterate through search rounds, fetch full articles. For original composites: gather domain texture, not a person's life.
-5. **Write** research document to `~/SOULS/research/<name>.research.md` (skip for original composites if the "research" is thin by design — note what you used instead)
+4. **Research** — exhaustively, with the *target* set by character type. For fictional/real: iterate through search rounds, fetch full articles, distill transcripts. For original composites: the **craft, era, and archetype** are your primary canon — mine them the same way, because that is where the lived texture comes from. Never write specifics from imagination alone (see "Research Is the Quality Ceiling").
+5. **Write** research document to `~/SOULS/research/<name>.research.md`. For original composites this documents the *domain* harvest plus an explicit note of what texture is borrowed and from where.
 6. **Read** openclaw SOUL docs (fetch both URLs via webfetch)
 7. **Synthesize** new/updated SOUL.md — conservatively if updating, applying the Conservative Editing Principle. For sensitive/real figures, bake the moral floor into the character's psychology.
 8. **Verify** against the Quality Standards — does every section pass?
