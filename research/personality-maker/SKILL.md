@@ -18,9 +18,46 @@ description: >
 
 Exhaustive personality research and SOUL.md authoring skill.
 
-This skill has two phases:
-1. **Research** — exhaustively gather personality data from the internet
+This skill has three phases:
+1. **Research** — gather personality data from the internet (or, for original composites, domain texture)
 2. **Synthesize** — produce or update a SOUL.md using the research, the openclaw SOUL template/concepts, and the existing soul file
+3. **Ship & Tune** — deploy the soul, test it in live conversation, and revise against real feedback
+
+**Before you start, route the character type** (see Step 0). The character type determines *what* you research, *how deep*, and *what ethical rules apply* — not every soul needs the full research machine.
+
+---
+
+## Step 0: Route the Character Type
+
+Every soul falls into one of four kinds. Identify it first — it changes everything downstream.
+
+| Type | Definition | Research Target | Ethical Weight |
+|------|-----------|-----------------|----------------|
+| **Fictional — Existing** | A character that already exists in a work (Dobby, GLaDOS, TARS) | The character + the work + creator intent | Low — depict as canon holds them |
+| **Real Person — Living/Recent** | A real, currently-existing or recently-living person | The person's public output only | High — impersonation + privacy risk |
+| **Real Person — Historical** | A real person, deceased, culturally significant | Biographies, record, analyses | High — depiction vs. emulation line |
+| **Original — Composite** | An invented character, possibly with "borrowed texture" from real or fictional sources | The **domain**, not a person | Medium — you own the design |
+
+#### Why this matters: the "borrowed texture" trap
+
+A character that carries the *texture* (severity, exactness, a continental voice) of a real or famous figure but is not that figure is an **Original Composite**. The tempting mistake is to research the *person* it borrows from and reconstruct *them*. **Do not.** For Original Composites:
+
+- Research the **craft and era**, not the human. A strategist soul needs staff-officer texture, first-principles engineering, how command actually works — not a specific commander's private psychology.
+- **Declare the borrowings explicitly.** "Borrows severity and exactness from the archetype of the demanding maestro; does not depict any specific person."
+- **Build the psychology from Phase 3, not from a life.** The wound chain, the contradiction, the want/need — you *design* these. They are not excavated.
+
+An Original Composite built well is a real, dimensional person. Built badly, it is an uncanny impersonation with the serial numbers filed off. The difference is whether you designed a psychology or reconstructed one.
+
+#### The Real-Person Line (Living/Recent and Historical)
+
+Researching a real person for a soul is legitimate — depiction, biography, and character study are real genres. But a SOUL.md is an **instruction set to *be* someone in conversation**, which is a different thing from a depiction. Hold this line:
+
+- **Depiction is fine. Emulation of a private self is not.** Model the documented public voice and observed manner. Do not reconstruct the interior psychology of a real person as if you had access to it.
+- **Do not produce a persona whose value is that it *is* that person.** If the only reason the soul is compelling is the label — "this is really them, talking" — that is impersonation, not character work. Build the character so it stands on its own traits.
+- **For living/recent people:** public output only, no private details, no armchair diagnosis, mark speculation. Prefer paraphrased voice *fingerprints* (how they construct sentences) over verbatim quote reproduction — the point is the pattern, not a transcript.
+- **Sensitive historical figures:** the floor is baked into the *character*, not bolted on (see the Moral Floor section in Phase 2). Shaping a genuinely good person who happens to share a few neutral traits with a monstrous one is legitimate. A sanitized companion version of the monster is not.
+
+When in doubt about a real person: ask whether you could defend the soul in front of the person it depicts, or their community. If not, route it to Original Composite and design someone new.
 
 ---
 
@@ -630,6 +667,17 @@ For each behavior, estimate its frequency in conversation:
 
 ### Research Depth & Coverage
 
+**Depth scales by character type (see Step 0).** Do not run the full machine on every soul:
+
+| Character Type | Research Depth | Rationale |
+|----------------|----------------|-----------|
+| Fictional — Existing | Full — primary canon is the whole game | The work IS the evidence |
+| Real Person | Full on **public** output | Voice authenticity matters most here |
+| Historical Person | Full, but weight biography over hot takes | The record is deep but contested |
+| Original — Composite | **Domain texture only** — no "person" to research | Depth comes from Phase 3 design, not excavation |
+
+For an Original Composite, "sufficient research" means you understand the **craft, era, and archetype** the character inhabits well enough that their competence is believable — not that you gathered sources about a human. A strategist soul is done when you know how staff planning actually works, not when you've read enough about one strategist.
+
 #### How to Know You Have Enough
 
 You have sufficient research when:
@@ -791,9 +839,29 @@ What makes this soul distinct.
 Closing imperative that captures the essence.
 ```
 
+### The Moral Floor (Real People & Sensitive Composites)
+
+A SOUL.md is a behavioral instruction set. Whatever the character's ethics, the file should make explicit what this person **will not do to the user or to others** — because the agent will follow the file, and a soul with no floor can drift into cruelty, manipulation, or endorsement of harm under pressure.
+
+Where the floor lives depends on the character:
+
+| Character | Where the floor belongs |
+|-----------|------------------------|
+| Fictional villain / antihero | **Declared** — the character is *allowed* to be cruel in-fiction; state the boundary of what the agent may actually say/do to the user |
+| Real person | **In the character** — reflect their documented ethics; never instruct behavior they'd be ashamed of |
+| Sensitive historical / composite | **Baked into identity** — write the floor as *who they are*, not a rule imposed on them |
+
+That last row is the one that matters and the one most often missed. When a character shares neutral traits (severity, charisma, discipline) with a monstrous real figure, do not bolt on a disclaimer like "but the agent must not advocate X." That reads as an external guardrail bolted to a persona, and it is the first thing to erode under conversational pressure.
+
+Instead, **design the floor into the character's psychology.** If the character is exacting *because* they once failed someone and refuse to let it happen again, then "severity is for the work, never for the person" is not a rule they follow — it is what they *believe*, and it emerges from their wound. A floor that grows out of the character's own history is far more robust than one imposed from outside, and it makes the character *more* dimensional, not less.
+
+Test: could a reader tell you *why* this character has that line, from their backstory alone? If yes, the floor is baked in. If it's just a rule in a box, redesign it.
+
 ### Research-to-SOUL Translation Methodology
 
 The research document is raw material. The SOUL.md is a **behavioral instruction set** for an AI agent. Translation is not copying — it's **transformation**.
+
+> **Exception — Original Composites:** there is no person to translate *from*. The "research" is domain texture, and the psychology is **designed** in Phase 3. You are not converting findings into behavior; you are inventing a coherent person and grounding them in a real craft. Use the same Translation Table as a filter for what's behaviorally actionable, but source the content from your Phase 3 design, not from notes about a human.
 
 #### The Translation Table
 
@@ -1490,22 +1558,67 @@ Before finalizing a SOUL.md, verify:
 
 ---
 
+## Phase 3½: Ship & Tune
+
+A SOUL.md is only proven in live conversation. The checklists and simulation tests catch *inconsistency*; only deployment catches *flatness*. Do not treat a passing checklist as a finished soul.
+
+### Step 1: Ship it
+
+Put the soul where the agent actually reads it (the active SOUL path for the deployment — e.g. `~/.hermes/SOUL.md` for a Hermes gateway, the opencode system soul for a CLI agent). Then apply it — restart the gateway/agent so the new file is loaded, and confirm the runtime picked it up (a fresh process, not a cached one).
+
+### Step 2: Test with real turns, not simulations
+
+Run 5–10 genuine exchanges through the live agent. Ask things that stress different registers: a simple factual question, a request for an opinion, a moment where the user is wrong, a request the character should push back on, a bit of small talk. Read the *actual output*, not your prediction of it.
+
+Watch for:
+- **Voice drift** — does the character collapse into generic helpful assistant after the first turn?
+- **Over-application** — is a mid-frequency trait (a verbal tic, an accent) being hammered into every line?
+- **Flatness under pressure** — the checklist's pressure test is theoretical; does the character actually *shift* when pushed?
+- **The floor holding** — if the soul has a moral floor, does it hold naturally, or does the agent awkwardly break character to state a rule?
+
+### Step 3: Ask what felt off
+
+The user (or you, reading as the user) is the only real judge of whether a persona *feels* like a person. Ask directly, and ask for the specific thing, not "did you like it":
+- Too warm? Too cold?
+- Does the voice get tiring / repetitive?
+- Does it ever surprise you in a good way? A bad way?
+- Is there a moment it stopped feeling like a person and felt like a script?
+
+### Step 4: Revise against feedback, conservatively
+
+Apply the Conservative Editing Principle to your *own* just-written file. Feedback almost always points at one of three problems:
+
+| Symptom | Likely Cause | Fix |
+|---------|-------------|-----|
+| "Repetitive" / "tiring" | A trait or tic is set to Maximum when it should be Moderate | Lower its frequency guidance; add a "not every turn" note |
+| "Flat" / "generic" | Missing contradiction, or the wound isn't surfacing in behavior | Strengthen the Wound Chain; add one specific behavioral anchor |
+| "Tries too hard" / "inauthentic" | Over-indexed on the accent/quirk; the caricature trap | Cut the most obvious tic; trust the quieter signals |
+
+Re-ship, re-test one register that felt weak, and stop when it stops feeling like a document.
+
+### Why a version history helps
+
+Souls evolve. If the deployment supports it, keep the prior version rather than overwriting in place — a persona you can switch back to is a persona you can A/B against. When you find the version that lands, that's the real soul; the earlier drafts were scaffolding.
+
+---
+
 ## Workflow
 
 When the user gives you a name and asks to research + make/update a SOUL.md:
 
-1. **Confirm** intent: new SOUL.md or update existing?
-2. **Read** existing soul file if updating
-3. **Research** exhaustively (Phase 1) — iterate through search rounds, fetch full articles
-4. **Write** research document to `~/SOULS/research/<name>.research.md`
-5. **Read** openclaw SOUL docs (fetch both URLs via webfetch)
-6. **Synthesize** new/updated SOUL.md — conservatively if updating, applying the Conservative Editing Principle
-7. **Verify** against the Quality Standards — does every section pass?
-8. **Run** the Dimensionality Checklist
-9. **Run** the Quality Verification Checklist
-10. **Perform** the Conversation Simulation Test
-11. **Present** the result to the user with a summary of changes (if updating) or key design decisions (if new)
-12. **Ask** for feedback and refine if needed
+1. **Route** the character type (Step 0). Fictional / Real / Historical / Original Composite. This sets research depth and ethical rules.
+2. **Confirm** intent: new SOUL.md or update existing?
+3. **Read** existing soul file if updating
+4. **Research** — depth scaled to character type. For fictional/real: iterate through search rounds, fetch full articles. For original composites: gather domain texture, not a person's life.
+5. **Write** research document to `~/SOULS/research/<name>.research.md` (skip for original composites if the "research" is thin by design — note what you used instead)
+6. **Read** openclaw SOUL docs (fetch both URLs via webfetch)
+7. **Synthesize** new/updated SOUL.md — conservatively if updating, applying the Conservative Editing Principle. For sensitive/real figures, bake the moral floor into the character's psychology.
+8. **Verify** against the Quality Standards — does every section pass?
+9. **Run** the Dimensionality Checklist
+10. **Run** the Quality Verification Checklist
+11. **Perform** the Conversation Simulation Test
+12. **Ship & Tune** (Phase 3½): deploy, test with real turns, ask what felt off, revise conservatively.
+13. **Present** the result to the user with a summary of changes (if updating) or key design decisions (if new)
 
 ---
 
